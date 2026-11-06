@@ -1,7 +1,0 @@
-service\DatabaseConnection.class
-model\Reseller.class
-view\ResellerView.class
-service\ResellerDAO.class
-view\ResellerView$1.class
-com\mycompany\modul8\Modul8.class
-main\main.class

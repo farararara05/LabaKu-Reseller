@@ -1,0 +1,14 @@
+# Maven build directory
+target/
+
+# NetBeans specific files
+nbproject/private/
+build/
+dist/
+
+# IDE / OS junk files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
